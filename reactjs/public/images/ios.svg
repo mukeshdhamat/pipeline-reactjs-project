@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="164" height="56" viewBox="0 0 164 56">
+    <g fill="none" fill-rule="evenodd">
+        <g>
+            <g transform="translate(-823.000000, -933.000000) translate(823.000000, 933.000000)">
+                <rect width="164" height="56" fill="#373535" rx="3"/>
+                <g fill="#FFF" fill-rule="nonzero">
+                    <path d="M6.3 23C2.852 22.98 0 15.993 0 12.434c0-5.813 4.391-7.086 6.084-7.086.763 0 1.577.298 2.295.56.503.184 1.022.374 1.311.374.173 0 .58-.161.94-.303.768-.303 1.723-.68 2.835-.68h.006c.83 0 3.348.18 4.862 2.438l.354.529-.51.382c-.729.546-2.059 1.543-2.059 3.516 0 2.338 1.506 3.236 2.23 3.669.32.19.65.387.65.818 0 .28-2.258 6.314-5.538 6.314-.802 0-1.37-.24-1.87-.45-.506-.214-.943-.399-1.665-.399-.365 0-.828.172-1.318.354-.669.248-1.426.53-2.286.53H6.3zM13.813 0c.086 3.058-2.117 5.18-4.317 5.047C9.134 2.607 11.696 0 13.813 0z" transform="translate(17.000000, 16.000000)"/>
+                </g>
+                <text fill="#FFF" font-family="BeVietnam-Medium, Be Vietnam" font-size="13" font-weight="400">
+                    <tspan x="50" y="22">Available on</tspan>
+                </text>
+                <text fill="#FFF" font-family="BeVietnam-Bold, Be Vietnam" font-size="20" font-weight="bold">
+                    <tspan x="50" y="41">App Store</tspan>
+                </text>
+            </g>
+        </g>
+    </g>
+</svg>

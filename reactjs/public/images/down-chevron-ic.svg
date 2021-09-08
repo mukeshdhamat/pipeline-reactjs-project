@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="11px" height="7px" viewBox="0 0 11 7" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>right-chevron</title>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Package-Detail" transform="translate(-1061.000000, -3930.000000)" fill="#31A1D0" fill-rule="nonzero">
+            <g id="Group-10" transform="translate(390.000000, 3478.000000)">
+                <g id="Group-8" transform="translate(460.000000, 442.000000)">
+                    <g id="right-chevron" transform="translate(216.500000, 13.500000) rotate(90.000000) translate(-216.500000, -13.500000) translate(213.000000, 8.000000)">
+                        <polygon id="Path" points="1.24372 0 0.03628 1.20748 3.9488 5.12 0.03628 9.03252 1.24372 10.24 6.36372 5.12"></polygon>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

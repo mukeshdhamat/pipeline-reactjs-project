@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>rounded-info-button</title>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="After-Search-" transform="translate(-1113.000000, -447.000000)" fill="#31A1D0" fill-rule="nonzero">
+            <g id="Group-10" transform="translate(390.000000, 264.000000)">
+                <g id="Group" transform="translate(435.000000, 146.000000)">
+                    <g id="rounded-info-button" transform="translate(288.000000, 37.000000)">
+                        <path d="M7.65,0 C3.4425,0 0,3.4425 0,7.65 C0,11.8575 3.4425,15.3 7.65,15.3 C11.8575,15.3 15.3,11.8575 15.3,7.65 C15.3,3.4425 11.8575,0 7.65,0 Z M8.415,11.475 L6.885,11.475 L6.885,6.885 L8.415,6.885 L8.415,11.475 Z M8.415,5.355 L6.885,5.355 L6.885,3.825 L8.415,3.825 L8.415,5.355 Z" id="Shape"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
