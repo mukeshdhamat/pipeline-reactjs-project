@@ -1,5 +1,5 @@
 # Extending image
-FROM bayesimpact/react-base
+FROM 14.17-bullseye
 
 RUN apt-get update
 RUN apt-get upgrade -y
