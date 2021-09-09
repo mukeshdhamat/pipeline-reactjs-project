@@ -1,5 +1,5 @@
 # Extending image
-FROM 14.17-bullseye
+FROM node:alpine
 
 RUN apt-get update
 RUN apt-get upgrade -y
