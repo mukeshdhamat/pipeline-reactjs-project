@@ -1,5 +1,5 @@
 # Extending image
-FROM node:latest
+FROM node:14.17.5
 
 RUN apt-get update
 RUN apt-get upgrade -y
