@@ -1,5 +1,5 @@
 # Extending image
-FROM node:carbon
+FROM bayesimpact/react-base
 
 RUN apt-get update
 RUN apt-get upgrade -y
@@ -14,14 +14,13 @@ RUN npm -v
 RUN node -v
 
 # Install app dependencies
-COPY . /usr/src/app/
+COPY package.json /usr/src/app/
 
 RUN npm install
-
-
+COPY . /usr/src/app/
+RUN npm run build
 # Port to listener
 EXPOSE 3000
-
 
 
 # Main command
