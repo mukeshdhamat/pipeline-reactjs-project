@@ -4,7 +4,7 @@ import customerLogin from '../services/customer/customerLogin';
 import forgotPassword from '../services/customer/forgotPassword';
 import resetPassword from '../services/customer/resetPassword';
 import verifyEmail from '../services/customer/verifyEmail';
-import getCustomerDetails from '../services/customer/getCustomerDetails';
+import { getCustomerDetails } from '../services/customer/getCustomerDetails';
 import { setToken, removeToken , setUserData, removeUserData } from '../utils/commonFunctions';
 
 const registerCustomerAction = (data) => {
