@@ -1,0 +1,13 @@
+version: '3'
+services:
+        reactjs-web-01:
+                container_name: reactjs-web-01
+                image: mukeshdhamat/reactjs:latest
+                ports:
+                        - "3000:3000"
+networks:
+        default:
+                external: true
+                name: ubuntu_net
+
+
